@@ -1,8 +1,5 @@
-Here's a detailed README file for your project, explaining the bot, its features, setup instructions, and usage:
 
----
-
-# FileEase Telegram Bot
+# FileEase 
 
 ## Table of Contents
 1. [Introduction](#introduction)
