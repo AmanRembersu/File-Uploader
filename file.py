@@ -128,7 +128,7 @@ async def donate_command(update: Update, context: CallbackContext):
 def main():
     # Initialize the bot application with your bot token to run the bot
     # Replace with your actual bot token here ...
-    application = Application.builder().token("7936468282:AAE2Z3eJ9n8f1gnIx-jiRwqUsgjleRil2ks").build()  # Replace with your actual bot token
+    application = Application.builder().token("").build()  # Replace with your actual bot token
 
     # Create a conversation handler to manage upload and download interactions when . /upload and /get file is used
     file_handler = ConversationHandler(
